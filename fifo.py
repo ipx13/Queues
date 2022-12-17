@@ -24,4 +24,7 @@ fifo.enqueue("3rd")
 fifo.dequeue()
 fifo.dequeue()
 fifo.dequeue()
+
+----------------------------------
+
 '''

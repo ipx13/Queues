@@ -23,4 +23,11 @@ lifo.append("3rd")
 lifo.pop()
 lifo.pop()
 lifo.pop()
+
+-----------------------------------
+
+from queues import Stack
+lifo = Stack("1st", "2nd", "3rd")
+for element in lifo:
+    print(element)
 '''
